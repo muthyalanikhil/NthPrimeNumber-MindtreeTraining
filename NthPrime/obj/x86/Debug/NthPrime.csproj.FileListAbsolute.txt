@@ -1,0 +1,5 @@
+D:\day3\NthPrime\NthPrime\bin\Debug\NthPrime.exe
+D:\day3\NthPrime\NthPrime\bin\Debug\NthPrime.pdb
+D:\day3\NthPrime\NthPrime\obj\x86\Debug\NthPrime.exe
+D:\day3\NthPrime\NthPrime\obj\x86\Debug\NthPrime.pdb
+D:\day3\NthPrime\NthPrime\obj\x86\Debug\NthPrime.csprojResolveAssemblyReference.cache
